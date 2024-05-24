@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Appcast</title>
+    <item>
+      <title>1.0.1</title>
+      <description>Describe what's new in this version</description>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1.0.0</title>
+      <description>Initial release</description>
+      <pubDate>Mon, 30 Aug 2021 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
